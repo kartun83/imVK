@@ -1,0 +1,1 @@
+include (../VKChatHeadlessService.pro)

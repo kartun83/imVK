@@ -1,0 +1,20 @@
+<root>
+	<item name="Off" value="0" />
+	<item name="Airplane" value="1" />
+	<item name="BassBoost" value="2" />
+	<item name="TrebleBoost" value="3" />
+	<item name="VoiceBoost" value="4" />
+	<item name="BassLower" value="5" />
+	<item name="TrebleLower" value="6" />
+	<item name="VoiceLower" value="7" />
+	<item name="Acoustic" value="8" />
+	<item name="Dance" value="9" />
+	<item name="Electronic" value="10" />
+	<item name="HipHop" value="11" />
+	<item name="Jazz" value="12" />
+	<item name="Lounge" value="13" />
+	<item name="Piano" value="14" />
+	<item name="RhythmAndBlues" value="15" />
+	<item name="Rock" value="16" />
+	<item name="SpokenWord" value="17" />
+</root>
